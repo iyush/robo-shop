@@ -1,0 +1,43 @@
+.floater{
+    position: sticky;
+    text-align: center;
+    bottom: 10px;
+    padding: 10px;
+}
+.cart {
+    background-color: #214157;
+    text-align: center;
+    padding: 10px;
+    border-radius: 100px;
+    box-shadow: 10px 10px 20px grey;
+}
+
+.bill, .reset {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 20px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 60px;
+}
+
+.bill {
+    background: #25c44c;
+}
+
+.bill:hover{
+    transition: 100ms linear;
+    background: #10832c;
+}
+
+.reset{
+    transition: 100ms linear;
+    background: #dd0b4a;
+}
+
+.reset:hover{
+    background: #be093f;
+}

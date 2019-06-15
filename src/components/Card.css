@@ -1,0 +1,50 @@
+.card {
+    background-color: #4885ad;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    font-family: Hack;
+    color: white;
+    border-radius: 10px;
+}
+
+.card:hover {
+    transition: 100ms linear;
+    background-color: #7970e1;
+
+}
+
+.card-details {
+    padding: 10px;
+}
+
+.card-name , .card-price {
+    display: block;
+    padding: 2px;
+}
+
+.btn {
+    background-color: inherit;
+    border: none;
+    box-shadow: none;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn:hover {
+    border: solid 0.3px white;
+}
+
+.value-field {
+    width: 80px;
+    text-align: center;
+    background-color: inherit;
+    box-shadow: none;
+    border: none;
+    font-weight: bold;
+    color: white;
+}
