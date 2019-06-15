@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robo-shop/static/css/main.54442a5b.chunk.css",
+    "main.js": "/robo-shop/static/js/main.36525749.chunk.js",
+    "main.js.map": "/robo-shop/static/js/main.36525749.chunk.js.map",
+    "runtime~main.js": "/robo-shop/static/js/runtime~main.77af1a55.js",
+    "runtime~main.js.map": "/robo-shop/static/js/runtime~main.77af1a55.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/robo-shop/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/robo-shop/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/robo-shop/index.html",
+    "precache-manifest.f82a48b987a2181c0b433f4005c5382e.js": "/robo-shop/precache-manifest.f82a48b987a2181c0b433f4005c5382e.js",
+    "service-worker.js": "/robo-shop/service-worker.js",
+    "static/css/main.54442a5b.chunk.css.map": "/robo-shop/static/css/main.54442a5b.chunk.css.map"
+  }
+}
