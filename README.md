@@ -1,6 +1,8 @@
 # ROBO_SHOP
 
-Deployed at [](https://iyush.github.io/robo-shop/)
+Attempt to build a working react-app. 
+
+Deployed at [https://iyush.github.io/robo-shop/](https://iyush.github.io/robo-shop/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
