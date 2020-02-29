@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/robo-shop/static/css/main.54442a5b.chunk.css",
-    "main.js": "/robo-shop/static/js/main.36525749.chunk.js",
-    "main.js.map": "/robo-shop/static/js/main.36525749.chunk.js.map",
+    "main.css": "/robo-shop/static/css/main.b76626e2.chunk.css",
+    "main.js": "/robo-shop/static/js/main.d9f26f27.chunk.js",
+    "main.js.map": "/robo-shop/static/js/main.d9f26f27.chunk.js.map",
     "runtime~main.js": "/robo-shop/static/js/runtime~main.77af1a55.js",
     "runtime~main.js.map": "/robo-shop/static/js/runtime~main.77af1a55.js.map",
     "static/js/2.d6a534e5.chunk.js": "/robo-shop/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/robo-shop/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/robo-shop/index.html",
-    "precache-manifest.84369ff5c6a055ab80a4aaa072237105.js": "/robo-shop/precache-manifest.84369ff5c6a055ab80a4aaa072237105.js",
+    "precache-manifest.a58e1a248ff1cdfae0da984bf1818c0d.js": "/robo-shop/precache-manifest.a58e1a248ff1cdfae0da984bf1818c0d.js",
     "service-worker.js": "/robo-shop/service-worker.js",
-    "static/css/main.54442a5b.chunk.css.map": "/robo-shop/static/css/main.54442a5b.chunk.css.map"
+    "static/css/main.b76626e2.chunk.css.map": "/robo-shop/static/css/main.b76626e2.chunk.css.map"
   }
 }
