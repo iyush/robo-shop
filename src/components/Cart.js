@@ -1,9 +1,5 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Cart.css'
-
-const paymentFinal = () => {
-    return
-}
 
 const Cart = (props) => {
     let totalCost = 0;
@@ -15,8 +11,8 @@ const Cart = (props) => {
             {totalCost > 0 ?
                 <div className="cart">
                     You pay $ {totalCost}
-                    <a href="#" className="bill" >Buy</a>
-                    <a href="#" className="reset" onClick={props.onReset}>Reset</a>
+                    <button href="#" className="bill" >Buy</button>
+                    <button href="#" className="reset" onClick={props.onReset}>Reset</button>
                 </div>
                 :
                 <div></div>

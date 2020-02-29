@@ -4,9 +4,6 @@ import Card from './Card'
 import './Cards.css'
 
 class Cards extends Component {
-    constructor(props) {
-        super(props);
-    }
     render() {
         return (
             <div className="cards">
